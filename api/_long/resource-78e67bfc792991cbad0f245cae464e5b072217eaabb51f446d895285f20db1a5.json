@@ -1,0 +1,284 @@
+{
+  "data": {
+    "crInformation": {
+      "isRestricted": false,
+      "crNationalNumber": "7039687830",
+      "crNumber": "4031309976",
+      "encryptedCrNumber": "MEt3VU80WERSOXZiNnA1eFZHQ01LZz09",
+      "ownerNameAr": null,
+      "ownerNameEn": null,
+      "ownerIdentifierNumber": null,
+      "ownerIdentifierTypeNameAr": null,
+      "ownerIdentifierTypeNameEn": null,
+      "versionNo": 7,
+      "entityFullNameAr": "شركة تكوين التميز المحدودة",
+      "entityFullNameEn": "Takwin Al Tamayuz Company Ltd.",
+      "capital": 50000,
+      "companyDuration": 99,
+      "isMain": true,
+      "mainCRNationalNumber": null,
+      "mainCRNumber": null,
+      "isLicenseBased": true,
+      "inLiquidationProcess": false,
+      "hasEcommerce": false,
+      "isListed": false,
+      "entityNameLang": {
+        "entityNameLangID": 1,
+        "entityNameLangDescAr": "اللغة العربية",
+        "entityNameLangDescEn": "Arabic Language"
+      },
+      "entityType": {
+        "entityTypeID": 1,
+        "entityTypeDescAr": "شركة",
+        "entityTypeDescEn": "Company"
+      },
+      "capitalCurrency": {
+        "capitalCurrencyID": 1,
+        "capitalCurrencyDescAr": "ريال سعودي",
+        "capitalCurrencyDescEn": "Saudi Riyal"
+      },
+      "companyForm": {
+        "companyFormID": 1,
+        "companyFormDescriptionAr": "ذات مسؤولية محدودة",
+        "companyFormDescriptionEn": "Limited liability company"
+      },
+      "companyCharacterList": [],
+      "partnersNationality": {
+        "partnersNationalityID": 4,
+        "partnersNationalityDescAr": "مختلطة",
+        "partnersNationalityDescEn": "Mixed"
+      },
+      "lastModificationDate": {
+        "lastModificationDateGregorian": "2026-07-27",
+        "lastModificationDateHijri": "13-02-1448"
+      },
+      "crIssueDate": {
+        "crIssueDateGregorian": "2024-09-16",
+        "crIssueDateHijri": "13-03-1446"
+      },
+      "crConfirmDate": {
+        "crConfirmDateGregorian": "2026-09-05",
+        "crConfirmDateHijri": "23-03-1448"
+      },
+      "crStatus": {
+        "crStatusID": 1,
+        "crStatusDescAr": "نشط",
+        "crStatusDescEn": "Active"
+      },
+      "crDeleteDate": null,
+      "crDeleteReasons": []
+    },
+    "crActivities": {
+      "fullActivitiesText": null,
+      "activitiesType": {
+        "activitiesTypeID": "2",
+        "activitiesTypeDescriptionAr": "Isic",
+        "activitiesTypeDescriptionEn": "Isic"
+      },
+      "activityList": [
+        {
+          "activityID": "410010",
+          "activityDescriptionAr": "الإنشاءات العامة للمباني السكنية",
+          "activityDescriptionEn": "Construction of all types of residential buildings",
+          "isPreLicenseIssued": false,
+          "isPostLicenseIssued": false
+        },
+        {
+          "activityID": "410021",
+          "activityDescriptionAr": "الانشاءات العامة للمباني غير السكنية (مثل المدارس والمستشفيات والفنادق ....الخ)",
+          "activityDescriptionEn": "General construction of non residential buildings such as schools hospitals hotels etc",
+          "isPreLicenseIssued": false,
+          "isPostLicenseIssued": false
+        },
+        {
+          "activityID": "492243",
+          "activityDescriptionAr": "النقل المتخصص",
+          "activityDescriptionEn": "Specialized transport",
+          "isPreLicenseIssued": false,
+          "isPostLicenseIssued": false
+        },
+        {
+          "activityID": "492244",
+          "activityDescriptionAr": "تأجير الحافلات بسائق",
+          "activityDescriptionEn": "Renting buses with driver",
+          "isPreLicenseIssued": false,
+          "isPostLicenseIssued": false
+        },
+        {
+          "activityID": "492250",
+          "activityDescriptionAr": "تأجير السيارات بسائق",
+          "activityDescriptionEn": "Renting of private cars with driver",
+          "isPreLicenseIssued": false,
+          "isPostLicenseIssued": false
+        },
+        {
+          "activityID": "492281",
+          "activityDescriptionAr": "النقل الدولي للركاب",
+          "activityDescriptionEn": "International Passenger Transport",
+          "isPreLicenseIssued": false,
+          "isPostLicenseIssued": false
+        },
+        {
+          "activityID": "562112",
+          "activityDescriptionAr": "متعهدي الاعاشة بالحج والعمرة",
+          "activityDescriptionEn": "Catering of Hajj and Umrah",
+          "isPreLicenseIssued": false,
+          "isPostLicenseIssued": false
+        },
+        {
+          "activityID": "563011",
+          "activityDescriptionAr": "محلات تقديم المشروبات  الكوفي شوب",
+          "activityDescriptionEn": "Coffee shops",
+          "isPreLicenseIssued": false,
+          "isPostLicenseIssued": true
+        },
+        {
+          "activityID": "771010",
+          "activityDescriptionAr": "تأجير سيارات ركاب بدون سائق",
+          "activityDescriptionEn": "renting and operational leasing of passenger cars (without drivers)",
+          "isPreLicenseIssued": false,
+          "isPostLicenseIssued": false
+        },
+        {
+          "activityID": "771020",
+          "activityDescriptionAr": "تأجير شاحنات بدون سائق",
+          "activityDescriptionEn": "renting and operational leasing of trucks, utility trailers and recreational vehicles (without drivers)",
+          "isPreLicenseIssued": false,
+          "isPostLicenseIssued": false
+        },
+        {
+          "activityID": "771030",
+          "activityDescriptionAr": "تأجير حافلات بدون سائق",
+          "activityDescriptionEn": "Renting buses without driver",
+          "isPreLicenseIssued": false,
+          "isPostLicenseIssued": false
+        },
+        {
+          "activityID": "771041",
+          "activityDescriptionAr": "الوساطة في تأجير المركبات",
+          "activityDescriptionEn": "Intermediation in Vehicle Rental and Leasing Services",
+          "isPreLicenseIssued": false,
+          "isPostLicenseIssued": false
+        },
+        {
+          "activityID": "791101",
+          "activityDescriptionAr": "وكالة السفر والسياحة",
+          "activityDescriptionEn": "Activities of travel and tourism agencies",
+          "isPreLicenseIssued": false,
+          "isPostLicenseIssued": false
+        },
+        {
+          "activityID": "791223",
+          "activityDescriptionAr": "تنظيم رحلات سياحية",
+          "activityDescriptionEn": "Organize international tours",
+          "isPreLicenseIssued": false,
+          "isPostLicenseIssued": false
+        },
+        {
+          "activityID": "799014",
+          "activityDescriptionAr": "حجز وحدات الضيافة",
+          "activityDescriptionEn": "Reservation of guest units",
+          "isPreLicenseIssued": false,
+          "isPostLicenseIssued": false
+        }
+      ]
+    },
+    "entityAddress": {
+      "addressType": {
+        "addressTypeID": "1",
+        "addressTypeDescriptionAr": "عنوان وطني",
+        "addressTypeDescriptionEn": "National Address"
+      },
+      "nationalAddress": {
+        "city": {
+          "cityId": "6",
+          "cityNameAr": "مكة المكرمة",
+          "cityNameEn": "MAKKAH"
+        },
+        "district": {
+          "districtId": "10200006038",
+          "districtNameAr": "حي العوالي",
+          "districtNameEn": "Al Awali Dist."
+        },
+        "streetNameAr": null,
+        "streetNameEn": null,
+        "buildingNo": "4079",
+        "unitNo": "1",
+        "postalCode": "24377",
+        "additionalNo": "8136"
+      },
+      "fullAddress": null
+    },
+    "capitalDetails": {
+      "contributionCapitalDetails": {
+        "capitalType": {
+          "capitalTypeID": 1,
+          "capitalTypeDescriptionAr": "نقدي",
+          "capitalTypeDescriptionEn": "Cash"
+        },
+        "cashCapital": 50000,
+        "inkindCapital": 0,
+        "totalCashContribution": 100,
+        "totalInkindContribution": 0,
+        "contributionValue": 500
+      },
+      "stockCapitalDetails": null,
+      "stockList": []
+    },
+    "contactInformation": {
+      "phoneNo": "0100000000",
+      "mobileNo": "00966530379975",
+      "email": "hrmoessam@gmail.com",
+      "websiteURL": null
+    },
+    "mangmentInformation": {
+      "managementStructure": {
+        "managementStructureID": 2,
+        "managementStructureDescriptionAr": "مديران فأكثر",
+        "managementStructureDescriptionEn": "Two or More Managers"
+      },
+      "managerList": [
+        {
+          "managerRef": "-",
+          "identifierTypeId": 2,
+          "identifierNumber": "-",
+          "nationalityId": 304,
+          "isLicensed": false,
+          "managerType": {
+            "managerTypeID": 4,
+            "managerTypeDescriptionAr": "مقيم",
+            "managerTypeDescriptionEn": "Resident"
+          },
+          "personInfo": {
+            "identifierNo": "-",
+            "titleAr": null,
+            "titleEn": null,
+            "firstNameAr": "نصار",
+            "fatherNameAr": "عقاب",
+            "grandFatherNameAr": "مساعد",
+            "familyNameAr": "آل زيد",
+            "firstNameEn": "NASSAR",
+            "fatherNameEn": "OQAB",
+            "grandFatherNameEn": "MUSAED",
+            "familyNameEn": "AL ZAID",
+            "identifierType": {
+              "identifierTypeID": 2,
+              "identifierTypeDescAr": "هوية مقيم",
+              "identifierTypeDescEn": "Resident ID"
+            },
+            "nationality": {
+              "nationalityID": 304,
+              "nationalityDescriptionAr": "باكستان",
+              "nationalityDescriptionEn": "Pakistan",
+              "isSaudi": false,
+              "isGulf": false
+            }
+          },
+          "managerPositionList": []
+        }
+      ]
+    },
+    "liquidatorList": []
+  },
+  "error": null
+}

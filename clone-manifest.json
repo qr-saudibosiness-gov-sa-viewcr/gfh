@@ -1,0 +1,768 @@
+{
+  "targetUrl": "https://qr.saudibusiness.gov.sa/viewcr?nCrNumber=+B9EvK6HoAWIYq6mggkFQg==",
+  "savedAt": "2026-07-27T19:09:39.321Z",
+  "pages": [
+    {
+      "url": "https://qr.saudibusiness.gov.sa/viewcr?nCrNumber=+B9EvK6HoAWIYq6mggkFQg==",
+      "file": "-nCrNumber-B9EvK6HoAWIYq6mggkFQg-/index.html",
+      "depth": 0,
+      "linksFound": 0
+    }
+  ],
+  "networkRequests": [
+    {
+      "url": "https://qr.saudibusiness.gov.sa/viewcr?nCrNumber=+B9EvK6HoAWIYq6mggkFQg==",
+      "method": "GET",
+      "type": "document",
+      "page": "https://qr.saudibusiness.gov.sa/viewcr?nCrNumber=+B9EvK6HoAWIYq6mggkFQg==",
+      "capturedAt": "2026-07-27T19:08:45.174Z"
+    },
+    {
+      "url": "https://qr.saudibusiness.gov.sa/config/root/env.root.js?1772371391979",
+      "method": "GET",
+      "type": "script",
+      "page": "https://qr.saudibusiness.gov.sa/viewcr?nCrNumber=+B9EvK6HoAWIYq6mggkFQg==",
+      "capturedAt": "2026-07-27T19:08:46.432Z"
+    },
+    {
+      "url": "https://qr.saudibusiness.gov.sa/env.js?1772371391979",
+      "method": "GET",
+      "type": "script",
+      "page": "https://qr.saudibusiness.gov.sa/viewcr?nCrNumber=+B9EvK6HoAWIYq6mggkFQg==",
+      "capturedAt": "2026-07-27T19:08:46.432Z"
+    },
+    {
+      "url": "https://qr.saudibusiness.gov.sa/assets/index-CzTOOSTm.js",
+      "method": "GET",
+      "type": "script",
+      "page": "https://qr.saudibusiness.gov.sa/viewcr?nCrNumber=+B9EvK6HoAWIYq6mggkFQg==",
+      "capturedAt": "2026-07-27T19:08:46.433Z"
+    },
+    {
+      "url": "https://qr.saudibusiness.gov.sa/assets/index-QVNIwH8F.css",
+      "method": "GET",
+      "type": "stylesheet",
+      "page": "https://qr.saudibusiness.gov.sa/viewcr?nCrNumber=+B9EvK6HoAWIYq6mggkFQg==",
+      "capturedAt": "2026-07-27T19:08:46.434Z"
+    },
+    {
+      "url": "https://api.saudibusiness.gov.sa/sbc/externalgw/qrapi-nl/api/app/Qr/GetCrDetails?mcEncryptedCrNumber=+B9EvK6HoAWIYq6mggkFQg%3D%3D",
+      "method": "GET",
+      "type": "fetch",
+      "page": "https://qr.saudibusiness.gov.sa/viewcr?nCrNumber=+B9EvK6HoAWIYq6mggkFQg==",
+      "capturedAt": "2026-07-27T19:08:57.451Z"
+    },
+    {
+      "url": "https://qr.saudibusiness.gov.sa/assets/header-web-DisaZgHs.jpg",
+      "method": "GET",
+      "type": "image",
+      "page": "https://qr.saudibusiness.gov.sa/viewcr?nCrNumber=+B9EvK6HoAWIYq6mggkFQg==",
+      "capturedAt": "2026-07-27T19:08:57.454Z"
+    },
+    {
+      "url": "https://qr.saudibusiness.gov.sa/assets/new-logo-w-Bsa-bGtT.svg",
+      "method": "GET",
+      "type": "image",
+      "page": "https://qr.saudibusiness.gov.sa/viewcr?nCrNumber=+B9EvK6HoAWIYq6mggkFQg==",
+      "capturedAt": "2026-07-27T19:08:57.454Z"
+    },
+    {
+      "url": "https://qr.saudibusiness.gov.sa/assets/sdaiaLogo-DA2sR2Cc.svg",
+      "method": "GET",
+      "type": "image",
+      "page": "https://qr.saudibusiness.gov.sa/viewcr?nCrNumber=+B9EvK6HoAWIYq6mggkFQg==",
+      "capturedAt": "2026-07-27T19:08:57.454Z"
+    },
+    {
+      "url": "https://qr.saudibusiness.gov.sa/assets/DINNextLTArabic-Medium-C5X_7zdr.woff2",
+      "method": "GET",
+      "type": "font",
+      "page": "https://qr.saudibusiness.gov.sa/viewcr?nCrNumber=+B9EvK6HoAWIYq6mggkFQg==",
+      "capturedAt": "2026-07-27T19:08:57.506Z"
+    },
+    {
+      "url": "https://qr.saudibusiness.gov.sa/assets/DINNextLTArabic-Bold-D6gNGPOf.woff2",
+      "method": "GET",
+      "type": "font",
+      "page": "https://qr.saudibusiness.gov.sa/viewcr?nCrNumber=+B9EvK6HoAWIYq6mggkFQg==",
+      "capturedAt": "2026-07-27T19:08:57.507Z"
+    },
+    {
+      "url": "https://qr.saudibusiness.gov.sa/assets/DINNextLTArabic-Regular-DYtxlCll.woff2",
+      "method": "GET",
+      "type": "font",
+      "page": "https://qr.saudibusiness.gov.sa/viewcr?nCrNumber=+B9EvK6HoAWIYq6mggkFQg==",
+      "capturedAt": "2026-07-27T19:08:57.508Z"
+    },
+    {
+      "url": "https://qr.saudibusiness.gov.sa/viewcr?nCrNumber=+B9EvK6HoAWIYq6mggkFQg==",
+      "method": "GET",
+      "type": "document",
+      "page": "https://qr.saudibusiness.gov.sa/viewcr?nCrNumber=+B9EvK6HoAWIYq6mggkFQg==",
+      "capturedAt": "2026-07-27T19:09:14.151Z"
+    },
+    {
+      "url": "https://qr.saudibusiness.gov.sa/assets/header-mobile-Bri6g_KO.jpg",
+      "method": "GET",
+      "type": "image",
+      "page": "https://qr.saudibusiness.gov.sa/viewcr?nCrNumber=+B9EvK6HoAWIYq6mggkFQg==",
+      "capturedAt": "2026-07-27T19:09:14.155Z"
+    },
+    {
+      "url": "https://qr.saudibusiness.gov.sa/config/root/env.root.js?1772371391979",
+      "method": "GET",
+      "type": "script",
+      "page": "https://qr.saudibusiness.gov.sa/viewcr?nCrNumber=+B9EvK6HoAWIYq6mggkFQg==",
+      "capturedAt": "2026-07-27T19:09:14.936Z"
+    },
+    {
+      "url": "https://qr.saudibusiness.gov.sa/env.js?1772371391979",
+      "method": "GET",
+      "type": "script",
+      "page": "https://qr.saudibusiness.gov.sa/viewcr?nCrNumber=+B9EvK6HoAWIYq6mggkFQg==",
+      "capturedAt": "2026-07-27T19:09:14.939Z"
+    },
+    {
+      "url": "https://qr.saudibusiness.gov.sa/assets/index-CzTOOSTm.js",
+      "method": "GET",
+      "type": "script",
+      "page": "https://qr.saudibusiness.gov.sa/viewcr?nCrNumber=+B9EvK6HoAWIYq6mggkFQg==",
+      "capturedAt": "2026-07-27T19:09:14.940Z"
+    },
+    {
+      "url": "https://qr.saudibusiness.gov.sa/assets/index-QVNIwH8F.css",
+      "method": "GET",
+      "type": "stylesheet",
+      "page": "https://qr.saudibusiness.gov.sa/viewcr?nCrNumber=+B9EvK6HoAWIYq6mggkFQg==",
+      "capturedAt": "2026-07-27T19:09:14.940Z"
+    },
+    {
+      "url": "https://qr.saudibusiness.gov.sa/assets/DINNextLTArabic-Regular-DYtxlCll.woff2",
+      "method": "GET",
+      "type": "font",
+      "page": "https://qr.saudibusiness.gov.sa/viewcr?nCrNumber=+B9EvK6HoAWIYq6mggkFQg==",
+      "capturedAt": "2026-07-27T19:09:14.965Z"
+    },
+    {
+      "url": "https://qr.saudibusiness.gov.sa/assets/DINNextLTArabic-Medium-C5X_7zdr.woff2",
+      "method": "GET",
+      "type": "font",
+      "page": "https://qr.saudibusiness.gov.sa/viewcr?nCrNumber=+B9EvK6HoAWIYq6mggkFQg==",
+      "capturedAt": "2026-07-27T19:09:14.968Z"
+    },
+    {
+      "url": "https://qr.saudibusiness.gov.sa/assets/DINNextLTArabic-Bold-D6gNGPOf.woff2",
+      "method": "GET",
+      "type": "font",
+      "page": "https://qr.saudibusiness.gov.sa/viewcr?nCrNumber=+B9EvK6HoAWIYq6mggkFQg==",
+      "capturedAt": "2026-07-27T19:09:14.970Z"
+    },
+    {
+      "url": "https://qr.saudibusiness.gov.sa/assets/new-logo-w-Bsa-bGtT.svg",
+      "method": "GET",
+      "type": "image",
+      "page": "https://qr.saudibusiness.gov.sa/viewcr?nCrNumber=+B9EvK6HoAWIYq6mggkFQg==",
+      "capturedAt": "2026-07-27T19:09:15.189Z"
+    },
+    {
+      "url": "https://qr.saudibusiness.gov.sa/assets/sdaiaLogo-DA2sR2Cc.svg",
+      "method": "GET",
+      "type": "image",
+      "page": "https://qr.saudibusiness.gov.sa/viewcr?nCrNumber=+B9EvK6HoAWIYq6mggkFQg==",
+      "capturedAt": "2026-07-27T19:09:15.190Z"
+    },
+    {
+      "url": "https://api.saudibusiness.gov.sa/sbc/externalgw/qrapi-nl/api/app/Qr/GetCrDetails?mcEncryptedCrNumber=+B9EvK6HoAWIYq6mggkFQg%3D%3D",
+      "method": "GET",
+      "type": "fetch",
+      "page": "https://qr.saudibusiness.gov.sa/viewcr?nCrNumber=+B9EvK6HoAWIYq6mggkFQg==",
+      "capturedAt": "2026-07-27T19:09:15.191Z"
+    },
+    {
+      "url": "https://qr.saudibusiness.gov.sa/assets/header-mobile-Bri6g_KO.jpg",
+      "method": "GET",
+      "type": "image",
+      "page": "https://qr.saudibusiness.gov.sa/viewcr?nCrNumber=+B9EvK6HoAWIYq6mggkFQg==",
+      "capturedAt": "2026-07-27T19:09:15.191Z"
+    },
+    {
+      "url": "https://qr.saudibusiness.gov.sa/assets/header-web-DisaZgHs.jpg",
+      "method": "GET",
+      "type": "image",
+      "page": "https://qr.saudibusiness.gov.sa/viewcr?nCrNumber=+B9EvK6HoAWIYq6mggkFQg==",
+      "capturedAt": "2026-07-27T19:09:20.939Z"
+    }
+  ],
+  "apiEntries": [
+    {
+      "url": "https://api.saudibusiness.gov.sa/sbc/externalgw/qrapi-nl/api/app/Qr/GetCrDetails?mcEncryptedCrNumber=+B9EvK6HoAWIYq6mggkFQg%3D%3D",
+      "pathname": "/sbc/externalgw/qrapi-nl/api/app/Qr/GetCrDetails",
+      "method": "GET",
+      "file": "api/_long/resource-78e67bfc792991cbad0f245cae464e5b072217eaabb51f446d895285f20db1a5.json",
+      "status": 200,
+      "statusText": "OK",
+      "contentType": "application/json; charset=utf-8",
+      "headers": {
+        "content-type": "application/json; charset=utf-8",
+        "content-language": "ar"
+      },
+      "body": "{\"data\":{\"crInformation\":{\"isRestricted\":false,\"crNationalNumber\":\"7039687830\",\"crNumber\":\"4031309976\",\"encryptedCrNumber\":\"MEt3VU80WERSOXZiNnA1eFZHQ01LZz09\",\"ownerNameAr\":null,\"ownerNameEn\":null,\"ownerIdentifierNumber\":null,\"ownerIdentifierTypeNameAr\":null,\"ownerIdentifierTypeNameEn\":null,\"versionNo\":7,\"entityFullNameAr\":\"شركة تكوين التميز المحدودة\",\"entityFullNameEn\":\"Takwin Al Tamayuz Company Ltd.\",\"capital\":50000,\"companyDuration\":99,\"isMain\":true,\"mainCRNationalNumber\":null,\"mainCRNumber\":null,\"isLicenseBased\":true,\"inLiquidationProcess\":false,\"hasEcommerce\":false,\"isListed\":false,\"entityNameLang\":{\"entityNameLangID\":1,\"entityNameLangDescAr\":\"اللغة العربية\",\"entityNameLangDescEn\":\"Arabic Language\"},\"entityType\":{\"entityTypeID\":1,\"entityTypeDescAr\":\"شركة\",\"entityTypeDescEn\":\"Company\"},\"capitalCurrency\":{\"capitalCurrencyID\":1,\"capitalCurrencyDescAr\":\"ريال سعودي\",\"capitalCurrencyDescEn\":\"Saudi Riyal\"},\"companyForm\":{\"companyFormID\":1,\"companyFormDescriptionAr\":\"ذات مسؤولية محدودة\",\"companyFormDescriptionEn\":\"Limited liability company\"},\"companyCharacterList\":[],\"partnersNationality\":{\"partnersNationalityID\":4,\"partnersNationalityDescAr\":\"مختلطة\",\"partnersNationalityDescEn\":\"Mixed\"},\"lastModificationDate\":{\"lastModificationDateGregorian\":\"2026-07-27\",\"lastModificationDateHijri\":\"13-02-1448\"},\"crIssueDate\":{\"crIssueDateGregorian\":\"2024-09-16\",\"crIssueDateHijri\":\"13-03-1446\"},\"crConfirmDate\":{\"crConfirmDateGregorian\":\"2026-09-05\",\"crConfirmDateHijri\":\"23-03-1448\"},\"crStatus\":{\"crStatusID\":1,\"crStatusDescAr\":\"نشط\",\"crStatusDescEn\":\"Active\"},\"crDeleteDate\":null,\"crDeleteReasons\":[]},\"crActivities\":{\"fullActivitiesText\":null,\"activitiesType\":{\"activitiesTypeID\":\"2\",\"activitiesTypeDescriptionAr\":\"Isic\",\"activitiesTypeDescriptionEn\":\"Isic\"},\"activityList\":[{\"activityID\":\"410010\",\"activityDescriptionAr\":\"الإنشاءات العامة للمباني السكنية\",\"activityDescriptionEn\":\"Construction of all types of residential buildings\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":false},{\"activityID\":\"410021\",\"activityDescriptionAr\":\"الانشاءات العامة للمباني غير السكنية (مثل المدارس والمستشفيات والفنادق ....الخ)\",\"activityDescriptionEn\":\"General construction of non residential buildings such as schools hospitals hotels etc\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":false},{\"activityID\":\"492243\",\"activityDescriptionAr\":\"النقل المتخصص\",\"activityDescriptionEn\":\"Specialized transport\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":false},{\"activityID\":\"492244\",\"activityDescriptionAr\":\"تأجير الحافلات بسائق\",\"activityDescriptionEn\":\"Renting buses with driver\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":false},{\"activityID\":\"492250\",\"activityDescriptionAr\":\"تأجير السيارات بسائق\",\"activityDescriptionEn\":\"Renting of private cars with driver\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":false},{\"activityID\":\"492281\",\"activityDescriptionAr\":\"النقل الدولي للركاب\",\"activityDescriptionEn\":\"International Passenger Transport\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":false},{\"activityID\":\"562112\",\"activityDescriptionAr\":\"متعهدي الاعاشة بالحج والعمرة\",\"activityDescriptionEn\":\"Catering of Hajj and Umrah\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":false},{\"activityID\":\"563011\",\"activityDescriptionAr\":\"محلات تقديم المشروبات  الكوفي شوب\",\"activityDescriptionEn\":\"Coffee shops\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":true},{\"activityID\":\"771010\",\"activityDescriptionAr\":\"تأجير سيارات ركاب بدون سائق\",\"activityDescriptionEn\":\"renting and operational leasing of passenger cars (without drivers)\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":false},{\"activityID\":\"771020\",\"activityDescriptionAr\":\"تأجير شاحنات بدون سائق\",\"activityDescriptionEn\":\"renting and operational leasing of trucks, utility trailers and recreational vehicles (without drivers)\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":false},{\"activityID\":\"771030\",\"activityDescriptionAr\":\"تأجير حافلات بدون سائق\",\"activityDescriptionEn\":\"Renting buses without driver\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":false},{\"activityID\":\"771041\",\"activityDescriptionAr\":\"الوساطة في تأجير المركبات\",\"activityDescriptionEn\":\"Intermediation in Vehicle Rental and Leasing Services\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":false},{\"activityID\":\"791101\",\"activityDescriptionAr\":\"وكالة السفر والسياحة\",\"activityDescriptionEn\":\"Activities of travel and tourism agencies\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":false},{\"activityID\":\"791223\",\"activityDescriptionAr\":\"تنظيم رحلات سياحية\",\"activityDescriptionEn\":\"Organize international tours\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":false},{\"activityID\":\"799014\",\"activityDescriptionAr\":\"حجز وحدات الضيافة\",\"activityDescriptionEn\":\"Reservation of guest units\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":false}]},\"entityAddress\":{\"addressType\":{\"addressTypeID\":\"1\",\"addressTypeDescriptionAr\":\"عنوان وطني\",\"addressTypeDescriptionEn\":\"National Address\"},\"nationalAddress\":{\"city\":{\"cityId\":\"6\",\"cityNameAr\":\"مكة المكرمة\",\"cityNameEn\":\"MAKKAH\"},\"district\":{\"districtId\":\"10200006038\",\"districtNameAr\":\"حي العوالي\",\"districtNameEn\":\"Al Awali Dist.\"},\"streetNameAr\":null,\"streetNameEn\":null,\"buildingNo\":\"4079\",\"unitNo\":\"1\",\"postalCode\":\"24377\",\"additionalNo\":\"8136\"},\"fullAddress\":null},\"capitalDetails\":{\"contributionCapitalDetails\":{\"capitalType\":{\"capitalTypeID\":1,\"capitalTypeDescriptionAr\":\"نقدي\",\"capitalTypeDescriptionEn\":\"Cash\"},\"cashCapital\":50000,\"inkindCapital\":0,\"totalCashContribution\":100,\"totalInkindContribution\":0,\"contributionValue\":500},\"stockCapitalDetails\":null,\"stockList\":[]},\"contactInformation\":{\"phoneNo\":\"0100000000\",\"mobileNo\":\"00966530379975\",\"email\":\"hrmoessam@gmail.com\",\"websiteURL\":null},\"mangmentInformation\":{\"managementStructure\":{\"managementStructureID\":2,\"managementStructureDescriptionAr\":\"مديران فأكثر\",\"managementStructureDescriptionEn\":\"Two or More Managers\"},\"managerList\":[{\"managerRef\":\"-\",\"identifierTypeId\":2,\"identifierNumber\":\"-\",\"nationalityId\":304,\"isLicensed\":false,\"managerType\":{\"managerTypeID\":4,\"managerTypeDescriptionAr\":\"مقيم\",\"managerTypeDescriptionEn\":\"Resident\"},\"personInfo\":{\"identifierNo\":\"-\",\"titleAr\":null,\"titleEn\":null,\"firstNameAr\":\"نصار\",\"fatherNameAr\":\"عقاب\",\"grandFatherNameAr\":\"مساعد\",\"familyNameAr\":\"آل زيد\",\"firstNameEn\":\"NASSAR\",\"fatherNameEn\":\"OQAB\",\"grandFatherNameEn\":\"MUSAED\",\"familyNameEn\":\"AL ZAID\",\"identifierType\":{\"identifierTypeID\":2,\"identifierTypeDescAr\":\"هوية مقيم\",\"identifierTypeDescEn\":\"Resident ID\"},\"nationality\":{\"nationalityID\":304,\"nationalityDescriptionAr\":\"باكستان\",\"nationalityDescriptionEn\":\"Pakistan\",\"isSaudi\":false,\"isGulf\":false}},\"managerPositionList\":[]}]},\"liquidatorList\":[]},\"error\":null}",
+      "encoding": "utf8"
+    }
+  ],
+  "byteIdentityChecks": [
+    {
+      "file": "js/config/root/env.root_q_1772371391979-index.js",
+      "url": "https://qr.saudibusiness.gov.sa/config/root/env.root.js?1772371391979",
+      "ok": true,
+      "bytes": 2116,
+      "sourceSha256": "db67be2e76a1353b7e7753459ab6a75aba7f0c036a7579bfa5e0d7d948c92cd4",
+      "savedSha256": "db67be2e76a1353b7e7753459ab6a75aba7f0c036a7579bfa5e0d7d948c92cd4"
+    },
+    {
+      "file": "js/env_q_1772371391979-index.js",
+      "url": "https://qr.saudibusiness.gov.sa/env.js?1772371391979",
+      "ok": true,
+      "bytes": 511,
+      "sourceSha256": "aa157c33c36f4645e4b85a5689c120a8a5a17fee96f78900d2f22dce225d24bd",
+      "savedSha256": "aa157c33c36f4645e4b85a5689c120a8a5a17fee96f78900d2f22dce225d24bd"
+    },
+    {
+      "file": "js/assets/index-CzTOOSTm.js",
+      "url": "https://qr.saudibusiness.gov.sa/assets/index-CzTOOSTm.js",
+      "ok": true,
+      "bytes": 1409172,
+      "sourceSha256": "4abaa3984a67e1f2e38cac3060d7d5cbf4c7e7c7672ea54e0b64744dc41507f6",
+      "savedSha256": "4abaa3984a67e1f2e38cac3060d7d5cbf4c7e7c7672ea54e0b64744dc41507f6"
+    },
+    {
+      "file": "js/config/root/env.root_q_1772371391979-index.js",
+      "url": "https://qr.saudibusiness.gov.sa/config/root/env.root.js?1772371391979",
+      "ok": true,
+      "bytes": 2116,
+      "sourceSha256": "db67be2e76a1353b7e7753459ab6a75aba7f0c036a7579bfa5e0d7d948c92cd4",
+      "savedSha256": "db67be2e76a1353b7e7753459ab6a75aba7f0c036a7579bfa5e0d7d948c92cd4"
+    },
+    {
+      "file": "js/env_q_1772371391979-index.js",
+      "url": "https://qr.saudibusiness.gov.sa/env.js?1772371391979",
+      "ok": true,
+      "bytes": 511,
+      "sourceSha256": "aa157c33c36f4645e4b85a5689c120a8a5a17fee96f78900d2f22dce225d24bd",
+      "savedSha256": "aa157c33c36f4645e4b85a5689c120a8a5a17fee96f78900d2f22dce225d24bd"
+    },
+    {
+      "file": "js/assets/index-CzTOOSTm.js",
+      "url": "https://qr.saudibusiness.gov.sa/assets/index-CzTOOSTm.js",
+      "ok": true,
+      "bytes": 1409172,
+      "sourceSha256": "4abaa3984a67e1f2e38cac3060d7d5cbf4c7e7c7672ea54e0b64744dc41507f6",
+      "savedSha256": "4abaa3984a67e1f2e38cac3060d7d5cbf4c7e7c7672ea54e0b64744dc41507f6"
+    }
+  ],
+  "integrityEntries": [
+    {
+      "file": "assets/favicons/selected-c3cb6f13de5226c2.svg",
+      "size": 2833,
+      "sha256": "c3cb6f13de5226c2035de6e829e4f437f072e94669881b3369669606e5f546de",
+      "contentType": "image/svg+xml",
+      "kind": "favicon",
+      "source": "https://qr.saudibusiness.gov.sa/root/assets/icons/fav.svg"
+    }
+  ],
+  "viewerDocuments": [],
+  "customDocument": null,
+  "favicons": [
+    {
+      "pageFile": "-nCrNumber-B9EvK6HoAWIYq6mggkFQg-/index.html",
+      "sourceUrl": "https://qr.saudibusiness.gov.sa/viewcr?nCrNumber=+B9EvK6HoAWIYq6mggkFQg==",
+      "file": "assets/favicons/selected-c3cb6f13de5226c2.svg",
+      "mime": "image/svg+xml",
+      "size": 2833,
+      "sha256": "c3cb6f13de5226c2035de6e829e4f437f072e94669881b3369669606e5f546de",
+      "extension": ".svg",
+      "rel": "icon",
+      "type": "image/svg+xml",
+      "sizes": "",
+      "media": "",
+      "declarationIndex": 0,
+      "declarations": [
+        {
+          "declarationIndex": 0,
+          "rel": "icon",
+          "href": "/root/assets/icons/fav.svg",
+          "type": "image/svg+xml",
+          "sizes": "",
+          "media": ""
+        }
+      ]
+    }
+  ],
+  "renderedControls": [
+    {
+      "file": "-nCrNumber-B9EvK6HoAWIYq6mggkFQg-/index.html",
+      "controls": [
+        {
+          "fingerprint": "3623c46ade733edf4386bd3ad7717ea1540f2a5de7d72722cc9666db74a39e4f",
+          "category": "ORIGINAL_LINK",
+          "destination": "https://business.sa/?culture=ar",
+          "target": "_blank",
+          "diagnostic": "original-navigation"
+        },
+        {
+          "fingerprint": "b21a051821f273e6191c40e18b274f59ca905274d23cbbfe9886e59a4ff2051a",
+          "category": "ORIGINAL_LINK",
+          "destination": "https://business.sa/?culture=ar",
+          "target": "_blank",
+          "diagnostic": "original-navigation"
+        },
+        {
+          "fingerprint": "1d2ae265f2b008fd3a4461aaab56225b3a06001b49225d341d8eca8d7fec0e18",
+          "category": "PROTECTED_OR_UNSUPPORTED",
+          "diagnostic": "ambiguous-control"
+        },
+        {
+          "fingerprint": "a3bc1f9ac5af164c5bcb4048aaf114be5dddd2ad0ad61838bb9f9cfe37e4c479",
+          "category": "PROTECTED_OR_UNSUPPORTED",
+          "diagnostic": "ambiguous-control"
+        },
+        {
+          "fingerprint": "9ac47202310a0423b818e3d1ae59438ae2c77eafba037a5dc33b0fc034a9d6b5",
+          "category": "PROTECTED_OR_UNSUPPORTED",
+          "diagnostic": "ambiguous-control"
+        },
+        {
+          "fingerprint": "396a53c93ed80c9953c9f9ed11f2693cd54257c1441efac55f56f4158635a2f0",
+          "category": "ORIGINAL_LINK",
+          "destination": "https://business.sa/privacy/",
+          "diagnostic": "original-navigation"
+        },
+        {
+          "fingerprint": "838865364d262d6f43cc14d44e3371e689050f12683a9407b0d8543742f59cd6",
+          "category": "ORIGINAL_LINK",
+          "destination": "https://business.sa/terms/",
+          "diagnostic": "original-navigation"
+        },
+        {
+          "fingerprint": "5e827fae80da79df1987a752f8353d9e906cf1e51dca73807adcf6bf3c490a40",
+          "category": "ORIGINAL_LINK",
+          "destination": "https://business.sa/faqs/",
+          "diagnostic": "original-navigation"
+        }
+      ]
+    },
+    {
+      "file": "viewcr/index.html",
+      "controls": [
+        {
+          "fingerprint": "3623c46ade733edf4386bd3ad7717ea1540f2a5de7d72722cc9666db74a39e4f",
+          "category": "ORIGINAL_LINK",
+          "destination": "https://business.sa/?culture=ar",
+          "target": "_blank",
+          "diagnostic": "original-navigation"
+        },
+        {
+          "fingerprint": "b21a051821f273e6191c40e18b274f59ca905274d23cbbfe9886e59a4ff2051a",
+          "category": "ORIGINAL_LINK",
+          "destination": "https://business.sa/?culture=ar",
+          "target": "_blank",
+          "diagnostic": "original-navigation"
+        },
+        {
+          "fingerprint": "1d2ae265f2b008fd3a4461aaab56225b3a06001b49225d341d8eca8d7fec0e18",
+          "category": "PROTECTED_OR_UNSUPPORTED",
+          "diagnostic": "ambiguous-control"
+        },
+        {
+          "fingerprint": "a3bc1f9ac5af164c5bcb4048aaf114be5dddd2ad0ad61838bb9f9cfe37e4c479",
+          "category": "PROTECTED_OR_UNSUPPORTED",
+          "diagnostic": "ambiguous-control"
+        },
+        {
+          "fingerprint": "9ac47202310a0423b818e3d1ae59438ae2c77eafba037a5dc33b0fc034a9d6b5",
+          "category": "PROTECTED_OR_UNSUPPORTED",
+          "diagnostic": "ambiguous-control"
+        },
+        {
+          "fingerprint": "396a53c93ed80c9953c9f9ed11f2693cd54257c1441efac55f56f4158635a2f0",
+          "category": "ORIGINAL_LINK",
+          "destination": "https://business.sa/privacy/",
+          "diagnostic": "original-navigation"
+        },
+        {
+          "fingerprint": "838865364d262d6f43cc14d44e3371e689050f12683a9407b0d8543742f59cd6",
+          "category": "ORIGINAL_LINK",
+          "destination": "https://business.sa/terms/",
+          "diagnostic": "original-navigation"
+        },
+        {
+          "fingerprint": "5e827fae80da79df1987a752f8353d9e906cf1e51dca73807adcf6bf3c490a40",
+          "category": "ORIGINAL_LINK",
+          "destination": "https://business.sa/faqs/",
+          "diagnostic": "original-navigation"
+        }
+      ]
+    },
+    {
+      "file": "index.html",
+      "controls": [
+        {
+          "fingerprint": "3623c46ade733edf4386bd3ad7717ea1540f2a5de7d72722cc9666db74a39e4f",
+          "category": "ORIGINAL_LINK",
+          "destination": "https://business.sa/?culture=ar",
+          "target": "_blank",
+          "diagnostic": "original-navigation"
+        },
+        {
+          "fingerprint": "b21a051821f273e6191c40e18b274f59ca905274d23cbbfe9886e59a4ff2051a",
+          "category": "ORIGINAL_LINK",
+          "destination": "https://business.sa/?culture=ar",
+          "target": "_blank",
+          "diagnostic": "original-navigation"
+        },
+        {
+          "fingerprint": "1d2ae265f2b008fd3a4461aaab56225b3a06001b49225d341d8eca8d7fec0e18",
+          "category": "PROTECTED_OR_UNSUPPORTED",
+          "diagnostic": "ambiguous-control"
+        },
+        {
+          "fingerprint": "a3bc1f9ac5af164c5bcb4048aaf114be5dddd2ad0ad61838bb9f9cfe37e4c479",
+          "category": "PROTECTED_OR_UNSUPPORTED",
+          "diagnostic": "ambiguous-control"
+        },
+        {
+          "fingerprint": "9ac47202310a0423b818e3d1ae59438ae2c77eafba037a5dc33b0fc034a9d6b5",
+          "category": "PROTECTED_OR_UNSUPPORTED",
+          "diagnostic": "ambiguous-control"
+        },
+        {
+          "fingerprint": "396a53c93ed80c9953c9f9ed11f2693cd54257c1441efac55f56f4158635a2f0",
+          "category": "ORIGINAL_LINK",
+          "destination": "https://business.sa/privacy/",
+          "diagnostic": "original-navigation"
+        },
+        {
+          "fingerprint": "838865364d262d6f43cc14d44e3371e689050f12683a9407b0d8543742f59cd6",
+          "category": "ORIGINAL_LINK",
+          "destination": "https://business.sa/terms/",
+          "diagnostic": "original-navigation"
+        },
+        {
+          "fingerprint": "5e827fae80da79df1987a752f8353d9e906cf1e51dca73807adcf6bf3c490a40",
+          "category": "ORIGINAL_LINK",
+          "destination": "https://business.sa/faqs/",
+          "diagnostic": "original-navigation"
+        }
+      ]
+    }
+  ],
+  "requiresPdfViewer": false,
+  "verification": {
+    "ok": true,
+    "checkedAt": "2026-07-27T19:09:39.320Z",
+    "missing": []
+  },
+  "urlMap": [
+    [
+      "https://qr.saudibusiness.gov.sa/config/root/env.root.js?1772371391979",
+      "js/config/root/env.root_q_1772371391979-index.js"
+    ],
+    [
+      "https://qr.saudibusiness.gov.sa/assets/index-QVNIwH8F.css",
+      "css/assets/index-QVNIwH8F.css"
+    ],
+    [
+      "https://qr.saudibusiness.gov.sa/env.js?1772371391979",
+      "js/env_q_1772371391979-index.js"
+    ],
+    [
+      "https://qr.saudibusiness.gov.sa/assets/index-CzTOOSTm.js",
+      "js/assets/index-CzTOOSTm.js"
+    ],
+    [
+      "https://qr.saudibusiness.gov.sa/assets/header-web-DisaZgHs.jpg",
+      "assets/header-web-DisaZgHs.jpg"
+    ],
+    [
+      "https://qr.saudibusiness.gov.sa/assets/new-logo-w-Bsa-bGtT.svg",
+      "assets/new-logo-w-Bsa-bGtT.svg"
+    ],
+    [
+      "https://api.saudibusiness.gov.sa/sbc/externalgw/qrapi-nl/api/app/Qr/GetCrDetails?mcEncryptedCrNumber=+B9EvK6HoAWIYq6mggkFQg%3D%3D",
+      "api/_long/resource-78e67bfc792991cbad0f245cae464e5b072217eaabb51f446d895285f20db1a5.json"
+    ],
+    [
+      "https://qr.saudibusiness.gov.sa/assets/sdaiaLogo-DA2sR2Cc.svg",
+      "assets/sdaiaLogo-DA2sR2Cc.svg"
+    ],
+    [
+      "https://qr.saudibusiness.gov.sa/assets/DINNextLTArabic-Medium-C5X_7zdr.woff2",
+      "assets/DINNextLTArabic-Medium-C5X_7zdr.woff2"
+    ],
+    [
+      "https://qr.saudibusiness.gov.sa/assets/DINNextLTArabic-Bold-D6gNGPOf.woff2",
+      "assets/DINNextLTArabic-Bold-D6gNGPOf.woff2"
+    ],
+    [
+      "https://qr.saudibusiness.gov.sa/assets/DINNextLTArabic-Regular-DYtxlCll.woff2",
+      "assets/DINNextLTArabic-Regular-DYtxlCll.woff2"
+    ],
+    [
+      "https://qr.saudibusiness.gov.sa/assets/header-mobile-Bri6g_KO.jpg",
+      "assets/header-mobile-Bri6g_KO.jpg"
+    ],
+    [
+      "https://qr.saudibusiness.gov.sa/viewcr?nCrNumber=+B9EvK6HoAWIYq6mggkFQg==",
+      "-nCrNumber-B9EvK6HoAWIYq6mggkFQg-/index.html"
+    ],
+    [
+      "https://qr.saudibusiness.gov.sa/",
+      "index.html"
+    ],
+    [
+      "https://qr.saudibusiness.gov.sa/root/assets/icons/fav.svg",
+      "images/root/assets/icons/fav.svg"
+    ],
+    [
+      "https://qr.saudibusiness.gov.sa/assets/worker-BlwysitS.js",
+      "js/assets/worker-BlwysitS.js"
+    ],
+    [
+      "https://qr.saudibusiness.gov.sa/assets/mada-B5JvXKD0.svg",
+      "assets/mada-B5JvXKD0.svg"
+    ],
+    [
+      "https://qr.saudibusiness.gov.sa/assets/hij-dLruiPdD.svg",
+      "assets/hij-dLruiPdD.svg"
+    ],
+    [
+      "https://qr.saudibusiness.gov.sa/assets/Ncw-RllAa_1m.svg",
+      "assets/Ncw-RllAa_1m.svg"
+    ],
+    [
+      "https://qr.saudibusiness.gov.sa/assets/ncec-DafIfX8-.svg",
+      "assets/ncec-DafIfX8-.svg"
+    ],
+    [
+      "https://qr.saudibusiness.gov.sa/assets/mewa-CB3JT-DK.svg",
+      "assets/mewa-CB3JT-DK.svg"
+    ],
+    [
+      "https://qr.saudibusiness.gov.sa/assets/MOHLogo-DXoqC3AC.svg",
+      "assets/MOHLogo-DXoqC3AC.svg"
+    ],
+    [
+      "https://qr.saudibusiness.gov.sa/assets/MTlogo-C2Y-lheE.svg",
+      "assets/MTlogo-C2Y-lheE.svg"
+    ],
+    [
+      "https://qr.saudibusiness.gov.sa/assets/mediaLogo-2PNR8sGi.svg",
+      "assets/mediaLogo-2PNR8sGi.svg"
+    ],
+    [
+      "https://qr.saudibusiness.gov.sa/assets/monshat-Bo84mOWv.svg",
+      "assets/monshat-Bo84mOWv.svg"
+    ],
+    [
+      "https://qr.saudibusiness.gov.sa/assets/mimLogo-B2V8EhDO.svg",
+      "assets/mimLogo-B2V8EhDO.svg"
+    ],
+    [
+      "https://qr.saudibusiness.gov.sa/assets/Mwan-B2q-vzvv.svg",
+      "assets/Mwan-B2q-vzvv.svg"
+    ],
+    [
+      "https://qr.saudibusiness.gov.sa/assets/mos-CrtMoiFp.svg",
+      "assets/mos-CrtMoiFp.svg"
+    ],
+    [
+      "https://qr.saudibusiness.gov.sa/assets/chi-BQS2q6wB.svg",
+      "assets/chi-BQS2q6wB.svg"
+    ],
+    [
+      "https://qr.saudibusiness.gov.sa/assets/mawani-BenLE5JF.svg",
+      "assets/mawani-BenLE5JF.svg"
+    ],
+    [
+      "https://qr.saudibusiness.gov.sa/assets/rega-CymOqqhC.svg",
+      "assets/rega-CymOqqhC.svg"
+    ],
+    [
+      "https://qr.saudibusiness.gov.sa/assets/moc-G43DWAQE.svg",
+      "assets/moc-G43DWAQE.svg"
+    ],
+    [
+      "https://qr.saudibusiness.gov.sa/assets/saso2-D1jriw6E.svg",
+      "assets/saso2-D1jriw6E.svg"
+    ],
+    [
+      "https://qr.saudibusiness.gov.sa/assets/tvtc2-q8rPKbe4.svg",
+      "assets/tvtc2-q8rPKbe4.svg"
+    ]
+  ],
+  "sourceUrls": [
+    [
+      "css/assets/index-QVNIwH8F.css",
+      "https://qr.saudibusiness.gov.sa/assets/index-QVNIwH8F.css"
+    ],
+    [
+      "assets/header-web-DisaZgHs.jpg",
+      "https://qr.saudibusiness.gov.sa/assets/header-web-DisaZgHs.jpg"
+    ],
+    [
+      "assets/new-logo-w-Bsa-bGtT.svg",
+      "https://qr.saudibusiness.gov.sa/assets/new-logo-w-Bsa-bGtT.svg"
+    ],
+    [
+      "assets/DINNextLTArabic-Medium-C5X_7zdr.woff2",
+      "https://qr.saudibusiness.gov.sa/assets/DINNextLTArabic-Medium-C5X_7zdr.woff2"
+    ],
+    [
+      "assets/DINNextLTArabic-Bold-D6gNGPOf.woff2",
+      "https://qr.saudibusiness.gov.sa/assets/DINNextLTArabic-Bold-D6gNGPOf.woff2"
+    ],
+    [
+      "assets/DINNextLTArabic-Regular-DYtxlCll.woff2",
+      "https://qr.saudibusiness.gov.sa/assets/DINNextLTArabic-Regular-DYtxlCll.woff2"
+    ],
+    [
+      "assets/sdaiaLogo-DA2sR2Cc.svg",
+      "https://qr.saudibusiness.gov.sa/assets/sdaiaLogo-DA2sR2Cc.svg"
+    ],
+    [
+      "assets/header-mobile-Bri6g_KO.jpg",
+      "https://qr.saudibusiness.gov.sa/assets/header-mobile-Bri6g_KO.jpg"
+    ],
+    [
+      "-nCrNumber-B9EvK6HoAWIYq6mggkFQg-/index.html",
+      "https://qr.saudibusiness.gov.sa/viewcr?nCrNumber=+B9EvK6HoAWIYq6mggkFQg=="
+    ],
+    [
+      "images/root/assets/icons/fav.svg",
+      "https://qr.saudibusiness.gov.sa/root/assets/icons/fav.svg"
+    ],
+    [
+      "js/assets/worker-BlwysitS.js",
+      "https://qr.saudibusiness.gov.sa/assets/worker-BlwysitS.js"
+    ],
+    [
+      "assets/mada-B5JvXKD0.svg",
+      "https://qr.saudibusiness.gov.sa/assets/mada-B5JvXKD0.svg"
+    ],
+    [
+      "assets/hij-dLruiPdD.svg",
+      "https://qr.saudibusiness.gov.sa/assets/hij-dLruiPdD.svg"
+    ],
+    [
+      "assets/Ncw-RllAa_1m.svg",
+      "https://qr.saudibusiness.gov.sa/assets/Ncw-RllAa_1m.svg"
+    ],
+    [
+      "assets/ncec-DafIfX8-.svg",
+      "https://qr.saudibusiness.gov.sa/assets/ncec-DafIfX8-.svg"
+    ],
+    [
+      "assets/mewa-CB3JT-DK.svg",
+      "https://qr.saudibusiness.gov.sa/assets/mewa-CB3JT-DK.svg"
+    ],
+    [
+      "assets/MOHLogo-DXoqC3AC.svg",
+      "https://qr.saudibusiness.gov.sa/assets/MOHLogo-DXoqC3AC.svg"
+    ],
+    [
+      "assets/MTlogo-C2Y-lheE.svg",
+      "https://qr.saudibusiness.gov.sa/assets/MTlogo-C2Y-lheE.svg"
+    ],
+    [
+      "assets/mediaLogo-2PNR8sGi.svg",
+      "https://qr.saudibusiness.gov.sa/assets/mediaLogo-2PNR8sGi.svg"
+    ],
+    [
+      "assets/monshat-Bo84mOWv.svg",
+      "https://qr.saudibusiness.gov.sa/assets/monshat-Bo84mOWv.svg"
+    ],
+    [
+      "assets/mimLogo-B2V8EhDO.svg",
+      "https://qr.saudibusiness.gov.sa/assets/mimLogo-B2V8EhDO.svg"
+    ],
+    [
+      "assets/Mwan-B2q-vzvv.svg",
+      "https://qr.saudibusiness.gov.sa/assets/Mwan-B2q-vzvv.svg"
+    ],
+    [
+      "assets/mos-CrtMoiFp.svg",
+      "https://qr.saudibusiness.gov.sa/assets/mos-CrtMoiFp.svg"
+    ],
+    [
+      "assets/chi-BQS2q6wB.svg",
+      "https://qr.saudibusiness.gov.sa/assets/chi-BQS2q6wB.svg"
+    ],
+    [
+      "assets/mawani-BenLE5JF.svg",
+      "https://qr.saudibusiness.gov.sa/assets/mawani-BenLE5JF.svg"
+    ],
+    [
+      "assets/rega-CymOqqhC.svg",
+      "https://qr.saudibusiness.gov.sa/assets/rega-CymOqqhC.svg"
+    ],
+    [
+      "assets/moc-G43DWAQE.svg",
+      "https://qr.saudibusiness.gov.sa/assets/moc-G43DWAQE.svg"
+    ],
+    [
+      "assets/saso2-D1jriw6E.svg",
+      "https://qr.saudibusiness.gov.sa/assets/saso2-D1jriw6E.svg"
+    ],
+    [
+      "assets/tvtc2-q8rPKbe4.svg",
+      "https://qr.saudibusiness.gov.sa/assets/tvtc2-q8rPKbe4.svg"
+    ],
+    [
+      "viewcr/index.html",
+      "https://qr.saudibusiness.gov.sa/viewcr?nCrNumber=+B9EvK6HoAWIYq6mggkFQg=="
+    ],
+    [
+      "index.html",
+      "https://qr.saudibusiness.gov.sa/viewcr?nCrNumber=+B9EvK6HoAWIYq6mggkFQg=="
+    ]
+  ],
+  "files": [
+    "-nCrNumber-B9EvK6HoAWIYq6mggkFQg-/index.html",
+    "api/_long/resource-78e67bfc792991cbad0f245cae464e5b072217eaabb51f446d895285f20db1a5.json",
+    "assets/DINNextLTArabic-Bold-D6gNGPOf.woff2",
+    "assets/DINNextLTArabic-Medium-C5X_7zdr.woff2",
+    "assets/DINNextLTArabic-Regular-DYtxlCll.woff2",
+    "assets/MOHLogo-DXoqC3AC.svg",
+    "assets/MTlogo-C2Y-lheE.svg",
+    "assets/Mwan-B2q-vzvv.svg",
+    "assets/Ncw-RllAa_1m.svg",
+    "assets/chi-BQS2q6wB.svg",
+    "assets/favicons/selected-c3cb6f13de5226c2.svg",
+    "assets/header-mobile-Bri6g_KO.jpg",
+    "assets/header-web-DisaZgHs.jpg",
+    "assets/hij-dLruiPdD.svg",
+    "assets/mada-B5JvXKD0.svg",
+    "assets/mawani-BenLE5JF.svg",
+    "assets/mediaLogo-2PNR8sGi.svg",
+    "assets/mewa-CB3JT-DK.svg",
+    "assets/mimLogo-B2V8EhDO.svg",
+    "assets/moc-G43DWAQE.svg",
+    "assets/monshat-Bo84mOWv.svg",
+    "assets/mos-CrtMoiFp.svg",
+    "assets/ncec-DafIfX8-.svg",
+    "assets/new-logo-w-Bsa-bGtT.svg",
+    "assets/rega-CymOqqhC.svg",
+    "assets/saso2-D1jriw6E.svg",
+    "assets/sdaiaLogo-DA2sR2Cc.svg",
+    "assets/tvtc2-q8rPKbe4.svg",
+    "clone-report.html",
+    "css/assets/index-QVNIwH8F.css",
+    "images/root/assets/icons/fav.svg",
+    "index.html",
+    "js/assets/index-CzTOOSTm.js",
+    "js/assets/worker-BlwysitS.js",
+    "js/config/root/env.root_q_1772371391979-index.js",
+    "js/env_q_1772371391979-index.js",
+    "viewcr/index.html"
+  ]
+}
